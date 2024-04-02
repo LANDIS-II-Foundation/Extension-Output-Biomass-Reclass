@@ -1,7 +1,6 @@
 //  Authors:  Robert M. Scheller, Jimm Domingo
 
 using Landis.Core;
-using Landis.Library.BiomassCohorts;
 using Landis.SpatialModeling;
 using System.Collections.Generic;
 using System;
@@ -63,6 +62,13 @@ namespace Landis.Extension.Output.BiomassReclass
             this.mapNameTemplate = parameters.MapFileNames;
             this.mapDefs = parameters.ReclassMaps;
             MetadataHandler.InitializeMetadata(mapNameTemplate, mapDefs);
+        }
+
+        //---------------------------------------------------------------------
+
+        public override void AddCohortData()
+        {
+            return;
         }
 
         //---------------------------------------------------------------------
