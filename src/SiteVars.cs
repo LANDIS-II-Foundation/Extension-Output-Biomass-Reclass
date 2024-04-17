@@ -15,7 +15,7 @@ namespace Landis.Extension.Output.BiomassReclass
 
         public static void Initialize()
         {
-            cohorts = PlugIn.ModelCore.GetSiteVar<ISiteCohorts>("Succession.BiomassCohorts");
+            cohorts = PlugIn.ModelCore.GetSiteVar<ISiteCohorts>("Succession.UniversalCohorts");
             forestType = PlugIn.ModelCore.Landscape.NewSiteVar<string>();
             PlugIn.ModelCore.RegisterSiteVar(SiteVars.ForestType, "Output.ForestType");
 
