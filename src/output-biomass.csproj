@@ -2,21 +2,21 @@
 
   <PropertyGroup>
     <RootNamespace>Landis.Extension.Output.BiomassReclass</RootNamespace>
-    <AssemblyName>Landis.Extension.Output.BiomassReclass-v3</AssemblyName>
-    <AssemblyTitle>Landis.Extension.Output.BiomassReclass-v3</AssemblyTitle>
+    <AssemblyName>Landis.Extension.Output.BiomassReclass-v4</AssemblyName>
+    <AssemblyTitle>Landis.Extension.Output.BiomassReclass-v4</AssemblyTitle>
     <AssemblyCompany>Landis-II-Foundation</AssemblyCompany>
-    <AssemblyProduct>Landis.Extension.Output.BiomassReclass-v3</AssemblyProduct>
+    <AssemblyProduct>Landis.Extension.Output.BiomassReclass-v4</AssemblyProduct>
     <AssemblyCopyright>Landis-II-Foundation</AssemblyCopyright>
-    <AssemblyVersion>3.2.1</AssemblyVersion>
-    <Version>3.2.1</Version>
-    <FileVersion>3.2.1.0</FileVersion>
+    <AssemblyVersion>4.0.0</AssemblyVersion>
+    <Version>4.0.0</Version>
+    <FileVersion>4.0.0.0</FileVersion>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <RepositoryUrl>https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-Reclass</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <NeutralLanguage>English</NeutralLanguage>
     <Authors>Landis-II-Foundation</Authors>
-    <Product>Landis.Extension.Output.BiomassReclass-v3</Product>
+    <Product>Landis.Extension.Output.BiomassReclass-v4</Product>
     <Copyright>Landis-II-Foundation</Copyright>
     <Description>Extension Output Biomass Reclass</Description>
     <PackageTags>LANDIS-II;Landis;Extension;Biomass;Reclassification</PackageTags>

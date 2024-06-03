@@ -67,21 +67,6 @@ namespace Landis.Extension.Output.BiomassReclass
         {
             mapDefns = new List<IMapDefinition>();
         }
-        //---------------------------------------------------------------------
-
-        /// <summary>
-        /// Initializes a new instance.
-        /// </summary>
-        /// <param name="timestep"></param>
-        /// <param name="mapDefns"></param>
-        /// <param name="mapFileNames"></param>
-/*        public Parameters(int              timestep,
-                          IMapDefinition[] mapDefns,
-                          string           mapFileNames)
-        {
-            this.timestep = timestep;
-            this.mapDefns = mapDefns;
-            this.mapFileNames = mapFileNames;
-        }*/
+        
     }
 }

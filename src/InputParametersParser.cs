@@ -136,7 +136,7 @@ namespace Landis.Extension.Output.BiomassReclass
 
             CheckNoDataAfter(string.Format("the {0} parameter", MapFileNames));
 
-            return parameters; //.GetComplete();
+            return parameters; 
         }
 
         //---------------------------------------------------------------------
