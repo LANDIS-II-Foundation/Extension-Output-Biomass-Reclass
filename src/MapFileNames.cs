@@ -1,7 +1,6 @@
 //  Authors:  Robert M. Scheller, Jimm Domingo
 
 using Landis.Utilities;
-using Landis.Core;
 using System.Collections.Generic;
 
 namespace Landis.Extension.Output.BiomassReclass
