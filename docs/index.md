@@ -4,11 +4,9 @@ This extension summarizes output from any biomass-compatible extensions, includi
 
 # Release Notes
 
-- Latest release: Version 3.1 — January 2021
-
+- Latest release: Version 4.0 — October 2024
 - Full release details found in the User Guide and on GitHub.
-- [View User Guide](https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-Reclass/blob/master/docs/LANDIS-II%20Biomass%20Reclass%20Output%20v3.0%20User%20Guide.pdf).
-
+- [View User Guide](https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-Reclass/blob/master/docs/LANDIS-II%20Biomass%20Reclass%20Output%20v4%20User%20Guide.pdf).
 - Copyright: The LANDIS-II Foundation
 
 # Requirements
@@ -20,13 +18,11 @@ You need:
 
 # Download
 
-- The latest version of Biomass Output Reclassification can be [downloaded from GitHub](https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-Reclass/blob/master/deploy/installer/LANDIS-II-V7%20Output%20Biomass%20Reclass%203.1-setup.exe). To install it on your computer, launch the installer.
+- The latest version of Biomass Output Reclassification can be [downloaded from GitHub](https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-Reclass/blob/master/deploy/installer/LANDIS-II-V8%20Output%20Biomass%20Reclass%204.0-setup.exe). To install it on your computer, launch the installer.
 
 # Example Files
 
-LANDIS-II requires a global parameter file for your scenario, and separate parameter files for each extension.
-
-Example files can be [downloaded from GitHub](https://downgit.github.io/#/home?url=https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-Reclass/tree/master/testings/version-tests/Core7-BiomassReclass3.0).
+Example files can be [downloaded from GitHub](https://downgit.github.io/#/home?url=https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-Reclass/tree/master/testings/Core8-BiomassReclass4.0).
 
 # Citation
 
@@ -42,5 +38,3 @@ If you come across any issue or suspected bug, please post about it in the [issu
 # Author
 
 [The LANDIS-II Foundation](http://www.landis-ii.org)
-
-Mail : rschell@ncsu.edu
