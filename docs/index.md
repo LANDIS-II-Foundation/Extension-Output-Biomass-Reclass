@@ -13,12 +13,12 @@ This extension summarizes output from any biomass-compatible extensions, includi
 
 You need:
 
-- The [LANDIS-II model v7.0](http://www.landis-ii.org/install) installed on your computer.
+- The [LANDIS-II model v8.0](http://www.landis-ii.org/install) installed on your computer.
 - Example files (see below)
 
 # Download
 
-- The latest version of Biomass Output Reclassification can be [downloaded from GitHub](https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-Reclass/blob/master/deploy/installer/LANDIS-II-V8%20Output%20Biomass%20Reclass%204.0-setup.exe). To install it on your computer, launch the installer.
+- The latest release can be [downloaded from GitHub](https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-Reclass/blob/master/deploy/installer/LANDIS-II-V8%20Output%20Biomass%20Reclass%204.0-setup.exe). (Look for the download icon in upper right corner.)  Launch the installer.
 
 # Example Files
 
