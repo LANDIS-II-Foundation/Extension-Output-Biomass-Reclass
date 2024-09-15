@@ -1,6 +1,6 @@
 # What is the Biomass Reclassification Output Extension?
 
-This extension summarizes output from any biomass-compatible extensions, including NECN, PnET, and Biomass Succession. The Biomass Reclassification Output extension reclassifies sites into forest types dependent upon species dominance at that site. Dominance is determined by total biomass per species at the site.
+This extension summarizes output from any extensions. The Biomass Reclassification Output extension reclassifies sites into forest types dependent upon species biomass dominance at that site. Dominance is determined by total biomass per species at the site.
 
 # Release Notes
 
@@ -16,7 +16,7 @@ You need:
 - The [LANDIS-II model v8.0](http://www.landis-ii.org/install) installed on your computer.
 - Example files (see below)
 
-# Download
+# Download and Install the Extension
 
 - The latest release can be [downloaded from GitHub](https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-Reclass/blob/master/deploy/installer/LANDIS-II-V8%20Output%20Biomass%20Reclass%204.0-setup.exe). (Look for the download icon in upper right corner.)  Launch the installer.
 

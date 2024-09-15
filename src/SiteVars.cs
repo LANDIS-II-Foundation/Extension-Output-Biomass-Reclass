@@ -8,14 +8,14 @@ namespace Landis.Extension.Output.BiomassReclass
 {
     public static class SiteVars
     {
-        private static ISiteVar<ISiteCohorts> cohorts;
+        private static ISiteVar<SiteCohorts> cohorts;
         private static ISiteVar<string> forestType;
 
         //---------------------------------------------------------------------
 
         public static void Initialize()
         {
-            cohorts = PlugIn.ModelCore.GetSiteVar<ISiteCohorts>("Succession.UniversalCohorts");
+            cohorts = PlugIn.ModelCore.GetSiteVar<SiteCohorts>("Succession.UniversalCohorts");
             forestType = PlugIn.ModelCore.Landscape.NewSiteVar<string>();
             PlugIn.ModelCore.RegisterSiteVar(SiteVars.ForestType, "Output.ForestType");
 
@@ -35,7 +35,7 @@ namespace Landis.Extension.Output.BiomassReclass
             }
         }
         //---------------------------------------------------------------------
-        public static ISiteVar<ISiteCohorts> Cohorts
+        public static ISiteVar<SiteCohorts> Cohorts
         {
             get
             {
