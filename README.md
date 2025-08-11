@@ -2,4 +2,4 @@
 
 See the TAC rules here: https://sites.google.com/site/landismodel/developers
 
-Robert Scheller is the Custodian of this repository.
+Eric Gustafson is the Custodian of this repository.
