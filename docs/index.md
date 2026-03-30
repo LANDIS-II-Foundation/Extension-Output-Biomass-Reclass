@@ -4,7 +4,7 @@ This extension summarizes output from any extensions. The Biomass Reclassificati
 
 # Release Notes
 
-- Latest release: Version 4.0 — October 2024
+- Latest release: Version 4.1 — April 2026
 - Full release details found in the User Guide and on GitHub.
 - [View User Guide](https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-Reclass/blob/master/docs/LANDIS-II%20Biomass%20Reclass%20Output%20v4%20User%20Guide.pdf).
 - Copyright: The LANDIS-II Foundation
@@ -18,7 +18,7 @@ You need:
 
 # Download and Install the Extension
 
-- The latest release can be [downloaded from GitHub](https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-Reclass/blob/master/deploy/installer/LANDIS-II-V8%20Output%20Biomass%20Reclass%204.0-setup.exe). (Look for the download icon in upper right corner.)  Launch the installer.
+- The latest release can be [downloaded from GitHub](https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-Reclass/blob/master/deploy/installer/LANDIS-II-V8%20Output%20Biomass%20Reclass%204.1-setup.exe). (Look for the download icon in upper right corner.)  Launch the installer.
 
 # Example Files
 
